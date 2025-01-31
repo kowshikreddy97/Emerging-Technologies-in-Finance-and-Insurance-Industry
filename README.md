@@ -14,18 +14,18 @@ This project explores emerging technologies transforming the finance and insuran
 🎯 IT Initiatives
 -
 
-🔹 Federated Learning → Fraud detection, personalized recommendations, risk assessment.
-🔹 Reinforcement Learning → Pricing optimization, stock trading, credit risk prediction.
-🔹 Cloud Native → Managed services, improved compliance, scalability.
-🔹 Graph Data Science → Fraud detection, compliance databases, risk prediction. 
+- Federated Learning → Fraud detection, personalized recommendations, risk assessment.
+- Reinforcement Learning → Pricing optimization, stock trading, credit risk prediction.
+- Cloud Native → Managed services, improved compliance, scalability.
+- Graph Data Science → Fraud detection, compliance databases, risk prediction. 
 
 ⚠️ Challenges & Risks
 -
 
-⚡ Data Security & Privacy → Handling sensitive financial data.
-⚡ Regulatory Compliance → Adhering to financial industry standards.
-⚡ Algorithmic Accuracy → Ensuring reliable predictions and fraud detection.
-⚡ Infrastructure Costs → Implementing high-performance computing solutions.
+- Data Security & Privacy → Handling sensitive financial data.
+- Regulatory Compliance → Adhering to financial industry standards.
+- Algorithmic Accuracy → Ensuring reliable predictions and fraud detection.
+- Infrastructure Costs → Implementing high-performance computing solutions.
 
 📌 References
 - 
